@@ -1,2 +1,2 @@
-# Bhootu
-This is for basic Learning about Webdevelopment
+All about Machine Learning 
+
